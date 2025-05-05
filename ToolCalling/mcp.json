@@ -1,0 +1,15 @@
+{
+    "mcpServers":{
+        "AI Sticky Notes": {
+            "command": "Absolute path to uv",
+            "args": [
+                "run",
+                "--with",
+                "mcp[cli]",
+                "mcp",
+                "run",
+                "Absolute path to your server.py"
+            ]
+        }
+    }
+}
